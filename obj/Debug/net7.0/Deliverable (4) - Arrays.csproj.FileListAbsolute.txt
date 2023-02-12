@@ -1,0 +1,15 @@
+/Users/madinakhongiyasova/Projects/Deliverable (4) - Arrays/Deliverable (4) - Arrays/bin/Debug/net7.0/Deliverable (4) - Arrays
+/Users/madinakhongiyasova/Projects/Deliverable (4) - Arrays/Deliverable (4) - Arrays/bin/Debug/net7.0/Deliverable (4) - Arrays.deps.json
+/Users/madinakhongiyasova/Projects/Deliverable (4) - Arrays/Deliverable (4) - Arrays/bin/Debug/net7.0/Deliverable (4) - Arrays.runtimeconfig.json
+/Users/madinakhongiyasova/Projects/Deliverable (4) - Arrays/Deliverable (4) - Arrays/bin/Debug/net7.0/Deliverable (4) - Arrays.dll
+/Users/madinakhongiyasova/Projects/Deliverable (4) - Arrays/Deliverable (4) - Arrays/bin/Debug/net7.0/Deliverable (4) - Arrays.pdb
+/Users/madinakhongiyasova/Projects/Deliverable (4) - Arrays/Deliverable (4) - Arrays/obj/Debug/net7.0/Deliverable (4) - Arrays.csproj.AssemblyReference.cache
+/Users/madinakhongiyasova/Projects/Deliverable (4) - Arrays/Deliverable (4) - Arrays/obj/Debug/net7.0/Deliverable (4) - Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/madinakhongiyasova/Projects/Deliverable (4) - Arrays/Deliverable (4) - Arrays/obj/Debug/net7.0/Deliverable (4) - Arrays.AssemblyInfoInputs.cache
+/Users/madinakhongiyasova/Projects/Deliverable (4) - Arrays/Deliverable (4) - Arrays/obj/Debug/net7.0/Deliverable (4) - Arrays.AssemblyInfo.cs
+/Users/madinakhongiyasova/Projects/Deliverable (4) - Arrays/Deliverable (4) - Arrays/obj/Debug/net7.0/Deliverable (4) - Arrays.csproj.CoreCompileInputs.cache
+/Users/madinakhongiyasova/Projects/Deliverable (4) - Arrays/Deliverable (4) - Arrays/obj/Debug/net7.0/Deliverable (4) - Arrays.dll
+/Users/madinakhongiyasova/Projects/Deliverable (4) - Arrays/Deliverable (4) - Arrays/obj/Debug/net7.0/refint/Deliverable (4) - Arrays.dll
+/Users/madinakhongiyasova/Projects/Deliverable (4) - Arrays/Deliverable (4) - Arrays/obj/Debug/net7.0/Deliverable (4) - Arrays.pdb
+/Users/madinakhongiyasova/Projects/Deliverable (4) - Arrays/Deliverable (4) - Arrays/obj/Debug/net7.0/Deliverable (4) - Arrays.genruntimeconfig.cache
+/Users/madinakhongiyasova/Projects/Deliverable (4) - Arrays/Deliverable (4) - Arrays/obj/Debug/net7.0/ref/Deliverable (4) - Arrays.dll
